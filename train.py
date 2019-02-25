@@ -1,8 +1,9 @@
 import os, sys
-import glob
 import argparse
 import numpy as np
 import pandas as pd
+import pickle
+from sklearn.linear_model import LogisticRegression
 
 # train.py -- Don't forget to put a reasonable amount code comments
 # in so that we better understand what you're doing when we grade!
