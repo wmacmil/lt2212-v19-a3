@@ -1,0 +1,1000 @@
+   46  ls
+   47  vim bookflight.xml 
+   48  vim lab2.xml 
+   49  vim lab1.xml 
+   50  vim bookflight.xml 
+   51  vim lab2.xml 
+   52  vim bookflight.xml 
+   53  vim lab2.xml 
+   54  cp lab2.xml lab2copy.xml
+   55  vim lab2.xml 
+   56  rm lab2copy.xml 
+   57  cp lab2.xml lab2copy.xml
+   58  vim lab2.xml 
+   59  vim lab2copy.xml 
+   60  ls
+   61  mv lab2.xml l2copy/
+   62  cp lab2copy.xml lab2.xml
+   63  vim lab2.xml 
+   64  ls
+   65  vim lab2_vg.txt
+   66  vim lab2.xml 
+   67  vim stuff.txt 
+   68  rm stuff.txt 
+   69  ls
+   70  vim lab2_vg.txt 
+   71  ls
+   72  cd lab3/
+   73  ls
+   74  vim lab2.xml 
+   75  cd ..
+   76  ls
+   77  rm -rf lab3/
+   78  ls
+   79  vim problems.txt 
+   80  vim lab1.xml 
+   81  vim problems.txt 
+   82  cp lab1c.xml lab3.xml
+   83  vim lab3.xml 
+   84  ls
+   85  vim lab3.xml 
+   86  vim final.xml 
+   87  ls
+   88  cd final
+   89  ls
+   90  vim copy8/lab1.xml 
+   91  ls
+   92  cd ..
+   93  ls
+   94  vim lab3.xml 
+   95  ls
+   96  cd ..
+   97  ls
+   98  cd grammars/
+   99  ls
+  100  vim lab2.xml 
+  101  cp lab2.xml lab4.xml
+  102  vim lab4.xml
+  103  ls
+  104  vim lab2.xml 
+  105  vim lab4.xml 
+  106  vim ../templates/lab2.xml 
+  107  ls
+  108  vim lab2.xml 
+  109  ls
+  110  vim lab4.xml 
+  111  ls
+  112  vim lab4.xml 
+  113  vim ruleref.xml 
+  114  rm ruleref.xml 
+  115  ls
+  116  vim lab4.xml 
+  117  vim ../templates/lab4.xml 
+  118  vim lab2.xml 
+  119  vim ../templates/lab4.xml 
+  120  ls
+  121  vim lab4.xml 
+  122  ls
+  123  vim ../templates/lab2.xml 
+  124  ls
+  125  vim lab4.xml 
+  126  ls
+  127  mkdir c
+  128  mv copy copy2 copy3 c
+  129  ls
+  130  mkdir lab2copy
+  131  cp lab2.xml lab2copy/
+  132  vim lab2.xml 
+  133  cat lab2.xml lab4.xml  > l.xml
+  134  vim l.xml 
+  135  ls
+  136  mkdir copy2
+  137  mv lab2.xml lab2copy/
+  138  ls
+  139  cp l.xml lab2.xml
+  140  vim lab2.xml 
+  141  vim lab4.xml 
+  142  ls
+  143  vim lab2.xml 
+  144  rm lab4.xml 
+  145  cp lab2.xml lab4.xml
+  146  vim lab4.xml 
+  147  ls
+  148  mkdir lab4copy/
+  149  mkdir lab4copy/one
+  150  ls
+  151  cp lab4.xml lab4copy/one/
+  152  ls
+  153  vim lab4.xml 
+  154  ls
+  155  vim lab2.xml 
+  156  vim lab2copy/lab2.xml 
+  157  ls
+  158  vim lab4.xml 
+  159  pwd
+  160  cd ..
+  161  ls
+  162  pwd
+  163  ls
+  164  cd grammars/
+  165  ls
+  166  vim lab4.xml 
+  167  ls
+  168  vim lab2.xml 
+  169  rm lab2.xml 
+  170  ls
+  171  cp lab2copy/lab2.xml .
+  172  ls
+  173  vim lab2.xml 
+  174  cd ..
+  175  ls
+  176  cd ..
+  177  ls
+  178  cd ..
+  179  ls
+  180  cd lt2216-vt19/
+  181  git push -u origin master
+  182  git add --all
+  183  git commit -m "updates"
+  184  git push -u origin master
+  185  ls
+  186  cd ..
+  187  ls
+  188  cd lt2216-vt19/
+  189  ls
+  190  cd vxml-server/
+  191  ls
+  192  vim grammars/
+  193  cd grammars/
+  194  ls
+  195  vim lab4.xml 
+  196  ls
+  197  ils
+  198  ls
+  199  vim lab4.xml 
+  200  ls
+  201  vim lab2_vg.txt 
+  202  ls
+  203  vim lab2.xml 
+  204  cd ../grammars/
+  205  ls
+  206  vim lab4.xml 
+  207  vim lab2.xml 
+  208  vim lab21.xml 
+  209  cd ..
+  210  ls
+  211  cat flascommand.txt 
+  212  ls
+  213  cat flascommand.txt 
+  214  flask run --port 8000
+  215  flask run --port 8001
+  216  ls
+  217  cd templates/
+  218  ls
+  219  vim lab3.xml 
+  220  cd ..
+  221  ls
+  222  flask run --port 8001
+  223  flask run --port 8002
+  224  cd ..
+  225  l
+  226  ls
+  227  cd ..
+  228  ls
+  229  cd lt2216-vt19/
+  230  ls
+  231  git add --all
+  232  git commit "make sure everything is somewhat cohesive
+  233  "
+  234  git commit "make sure everything is somewhat cohesive"
+  235  ls
+  236  git commit "make sure everything is somewhat cohesive"
+  237  ls
+  238  history > hist.txt
+  239  vim hist.txt 
+  240  git commit -m "make sure everything is somewhat cohesive"
+  241  git push -u origin master
+  242  ls
+  243  cd vxml-server/
+  244  ls
+  245  cd grammars/
+  246  ls
+  247  vim lab2.xml 
+  248  mkdir ~/extraShit
+  249  mv l.xml grammar.xml lab2copy/ c/ copy2/ ~/extraShit/
+  250  ls
+  251  cd ..
+  252  ls
+  253  cd templates/
+  254  ls
+  255  mv exam/ lab1c.xml lab/ l2copy/ l1copy/ weather.xml ~/extraShit/
+  256  ls
+  257  vim lab2copy.xml 
+  258  cp lab2copy.xml ~/extraShit/
+  259  vim problems.txt 
+  260  ls
+  261  mv copy/ ~/extraShit/
+  262  ls
+  263  ls -a
+  264  rm .nfs000000002fa*
+  265  ls
+  266  ls
+  267  cd templates/
+  268  ls
+  269  vim lab1.xml 
+  270  rm .lab1.xml.swp 
+  271  vim lab1
+  272  vim lab1.xml 
+  273  ls
+  274  cd l1copy/
+  275  ls
+  276  vim lab1.xml 
+  277  ls -a
+  278  rm .lab1.xml.swp 
+  279  vim lab1.xml 
+  280  cd ..
+  281  ls
+  282  vim lab1.xml 
+  283  ls
+  284  vim lab1.xml 
+  285  mkdir final
+  286  mkdir final/copy6
+  287  cp lab1.xml final/copy6/ 
+  288  vim lab1.xml 
+  289  mkidr final/copy7
+  290  mkdir final/copy7
+  291  cp lab1.xml final/copy7
+  292  vim lab1.xml 
+  293  ls
+  294  cat flascommand.txt 
+  295  flask run --port 800
+  296  flask run --port 8000
+  297  vim lab1
+  298  vim lab1.xml 
+  299  mkdir final/copy5
+  300  cp lab1.xml final/copy5
+  301  vim lab1.xml 
+  302  cd ..
+  303  ls
+  304  cat flascommand.txt 
+  305  flask run --port 8000
+  306  ls
+  307  vim lab1.xml 
+  308  vim ../grammars/grammar.xml 
+  309  s
+  310  ls
+  311  vim ../grammars/lab2.xml 
+  312  ls
+  313  vim lab1.xml 
+  314  ls
+  315  vim lab2.xml 
+  316  vim lab1.xml 
+  317  ls
+  318  vim lab2.xml 
+  319  vim vim menu.xml 
+  320  vim menu.xml 
+  321  vim l1copy/lab1.xml 
+  322  ls
+  323  cd grammars/
+  324  ls
+  325  vim lab2.xml 
+  326  ls
+  327  vim lab21.xml 
+  328  ls
+  329  cd ..
+  330  ls
+  331  cat flascommand.txt 
+  332  flask run --port 8000
+  333  kill $(lsof -t -i:8000)
+  334  flask run --port 8000
+  335  ls
+  336  vim lab1.xml 
+  337  sl
+  338  ls
+  339  vim exam
+  340  mkdir exam
+  341  cp lab1.xml exam/
+  342  cd exam/
+  343  ls
+  344  vim lab1.xml 
+  345  ls
+  346  cd ..
+  347  ls
+  348  vim lab1.xml 
+  349  ls
+  350  cd ..
+  351  ls
+  352  cat flascommand.txt 
+  353  flask run --port 800
+  354  flask run --port 8000
+  355  ls
+  356  kill $(lsof -t -i:8000)
+  357  flask run --port 8000
+  358  cd templates/
+  359  ls
+  360  vim lab2.xml 
+  361  ls
+  362  mkdir l2copy
+  363  cp lab2.xml l2copy/
+  364  vim lab1.xml 
+  365  ls
+  366  mkdir l1copy
+  367  cp lab1.xml l1copy/
+  368  ls
+  369  vim lab1.xml 
+  370  cd l1copy/
+  371  ls
+  372  vim lab1.xml 
+  373  cd ..
+  374  ls
+  375  vim l1copy/
+  376  ls
+  377  cd l1copy/
+  378  ls
+  379  vim lab1.xml 
+  380  cd. .
+  381  cd ..
+  382  ls
+  383  rm lab1.xml 
+  384  cp lab2.xml lab1.xml
+  385  ls
+  386  vim lab2.xml 
+  387  ls
+  388  vim lab1.xml 
+  389  ls
+  390  cd l2copy/
+  391  ls
+  392  cd ..
+  393  ls
+  394  cp lab1.xml l2copy/
+  395  ls
+  396  vim lab1.xml 
+  397  ls
+  398  vim lab1.xml 
+  399  ls
+  400  vim l1copy/lab1.xml 
+  401  ls
+  402  vim lab2.xml 
+  403  ls
+  404  vim lab1.xml 
+  405  rm lab1.xml 
+  406  ls
+  407  cp lab2.xml lab1.xml
+  408  vim lab1.xml 
+  409  ls
+  410  vim lab1.xml 
+  411  ls
+  412  vim lab1.xml 
+  413  ls
+  414  vim lab2.xml 
+  415  ls
+  416  vim lab1.xml 
+  417  vim lab2.xml 
+  418  vim lab1.xml 
+  419  ls
+  420  cd ..
+  421  ls
+  422  cd grammars/
+  423  ls
+  424  vim lab21.xml 
+  425  cp lab21.xml grammar.xml
+  426  ls
+  427  cd ..
+  428  ls
+  429  cat flascommand.txt 
+  430  flask run --port 8000
+  431  ls
+  432  flask run --port 8000
+  433  ls
+  434  vim grammars/
+  435  ls
+  436  vim templates/
+  437  ls
+  438  cd templates/
+  439  ls
+  440  vim lab2.xml 
+  441  ls
+  442  cd ..
+  443  ls
+  444  flask run --port 8000
+  445  ls
+  446  flask run --port 8000
+  447  ls
+  448  flask run --port 8000
+  449  ls
+  450  flask run --port 8000
+  451  ls
+  452  flask run --port 8000
+  453  cat templates/lab2.xml 
+  454  flask run --port 8000
+  455  ls
+  456  flask run --port 8000
+  457  ls
+  458  flask run --port 8000
+  459  vim lab2.xml 
+  460  ls
+  461  cd copy/
+  462  ls
+  463  cd ..
+  464  ls
+  465  cd copy/
+  466  ls
+  467  vim lab2.xml 
+  468  cd ..
+  469  ls
+  470  vim lab2
+  471  vim lab2.xml 
+  472  vim lab21.xml 
+  473  vim lab2.xml 
+  474  mkdir copy2
+  475  cp lab2.xml copy2/
+  476  ls
+  477  vim lab2.xml 
+  478  ls
+  479  vim lab2.xml 
+  480  cd copy2/
+  481  ls
+  482  vim lab2.xml 
+  483  ls
+  484  cd ..
+  485  ls
+  486  vim lab2.xml 
+  487  vim ruleref.xml
+  488  ls
+  489  vim lab2
+  490  cd ..
+  491  ls
+  492  cd templates/
+  493  ls
+  494  vim lab2.xml 
+  495  ls
+  496  cd ..
+  497  ls
+  498  cat flascommand.txt 
+  499  flask run --port 8000
+  500  ls
+  501  cd templates/
+  502  ls 
+  503  ls
+  504  vim lab1.xml 
+  505  ls -a
+  506  rm .lab1.xml.swp 
+  507  ls
+  508  vim lab1.xml 
+  509  ls
+  510  cd ~
+  511  ls
+  512  cd tricks/
+  513  ls
+  514  cd .
+  515  ls
+  516  cd ..
+  517  ls
+  518  cd lt2216-vt19/
+  519  ls
+  520  cd vxml-server/
+  521  ls
+  522  kill $(lsof -t -i:8000)
+  523  ls
+  524  cat flascommand.txt 
+  525  ls
+  526  flask run --port 8000
+  527  ls
+  528  cd templates/
+  529  ls
+  530  vim lab1.xml 
+  531  ls
+  532  cat flascommand.txt 
+  533  flask run --port 8000
+  534  ls
+  535  cat templates/stuff.txt 
+  536  ls
+  537  cat ../../../
+  538  cd ../../../
+  539  ls
+  540  cd gusmacwa\@GU.GU.SE/
+  541  ls
+  542  cd ..
+  543  ls
+  544  cd gusstrlip\@GU.GU.SE/
+  545  cd ~
+  546  ls
+  547  cd tricks/
+  548  ls
+  549  vim vim.txt 
+  550  ls
+  551  cd ../lt2216-vt19/
+  552  ls
+  553  cd vxml-server/
+  554  ls
+  555  cat ~/tricks/vim.txt 
+  556  flask run --port 8000
+  557  ls
+  558  flask run --port 8000
+  559  ls
+  560  flask run --port 8000
+  561  ls
+  562  cd templates/
+  563  ls
+  564  mkdir copy2
+  565  mv lab1.xml copy2/
+  566  ls
+  567  mv copy/lab1.xml .
+  568  ls
+  569  cd ..
+  570  ls
+  571  flask run --port 8000
+  572  ls
+  573  cd templates/
+  574  ls
+  575  vim lab1.xml 
+  576  mv lab1.xml copy
+  577  mv copy2/lab1.xml 
+  578  mv copy2/lab1.xml .
+  579  ls
+  580  cd ..
+  581  ls
+  582  flask run --port 8000
+  583  ls
+  584  cd templates/
+  585  ls
+  586  vim lab1.xml 
+  587  ls
+  588  cd ..
+  589  ls
+  590  flask run --port 8000
+  591  ls
+  592  cd templates/
+  593  ls
+  594  vim lab1.xml 
+  595  cd ..
+  596  ls
+  597  flask run --port 8000
+  598  ls
+  599  cd templates/
+  600  ls
+  601  vim lab1.xml 
+  602  ls
+  603  ls copy
+  604  ls
+  605  ls cop2
+  606  ls
+  607  ls copy2/
+  608  ls
+  609  ls copy2
+  610  cd copy
+  611  ls
+  612  cd ..
+  613  ls
+  614  cp lab1.xml lab1C.xml copy
+  615  cp lab1.xml copy/lab1C.xml 
+  616  ls
+  617  vim lab1.xml 
+  618  cd ..
+  619  ls
+  620  flask run --port 8000
+  621  ls
+  622  cd templates/
+  623  ls
+  624  vim lab1.xml 
+  625  ls 
+  626  cd ..
+  627  ls
+  628  flask run --port 8000
+  629  history > flascommand.txt
+  630  vim flascommand.txt 
+  631  cat flascommand.txt 
+  632  cd templates/
+  633  ls
+  634  vim lab1.xml 
+  635  ls
+  636  vim lab1.xml 
+  637  ls
+  638  cd copy2/
+  639  ls
+  640  cd ..
+  641  ls
+  642  cp lab1.xml copy2/
+  643  vim lab1.xml 
+  644  ls
+  645  cp lab1.xml l.xml
+  646  mv l.xml copy2/
+  647  ls
+  648  vim lab1.xml 
+  649  mkdir almost
+  650  cp lab1.xml almost/
+  651  vim lab1.xml 
+  652  ls
+  653  mkdir copy3
+  654  cp lab1.xml copy3/
+  655  ls
+  656  vim lab1.xml 
+  657  mkdir copy4
+  658  cp lab1.xml copy4
+  659  vim lab1.xml 
+  660  ls
+  661  mkdir copy5
+  662  cp lab1.xml copy5/
+  663  vim lab1.xml 
+  664  git add --all
+  665  git add
+  666  git add .
+  667  git commit -m "completed flow chart"
+  668  git push -u origin master
+  669  ls
+  670  cat flascommand.txt 
+  671  flask run --port 8000
+  672  ls
+  673  flask run --port 8000
+  674  ls
+  675  flask run --port 8000
+  676  vim templates/
+  677  vim templates/lab1.xml 
+  678  ls
+  679  ls lt2216-vt19/
+  680  ls
+  681  cd lt2216-vt19/
+  682  ls
+  683  cd vxml-server/
+  684  ls
+  685  cd templates/
+  686  ls
+  687  vim stuff.txt 
+  688  ls
+  689  tmux attach
+  690  ls
+  691  cd lt2216-vt19/
+  692  ls
+  693  cd vxml-server/
+  694  ls
+  695  cd templates/
+  696  ls
+  697  cat lab1PartC.txt 
+  698  ls
+  699  tmux
+  700  ls
+  701  ls -a
+  702  rm .nfs000000002fa*
+  703  ls
+  704  ls -a
+  705  tmux attach
+  706  ls
+  707  vim lab1.xml 
+  708  ls -a
+  709  tmux attach
+  710  cd .
+  711  ls
+  712  cd ..
+  713  ls
+  714  ls -a
+  715  cd grammars/
+  716  ls
+  717  ls -a
+  718  cd ..
+  719  ls
+  720  cd ..
+  721  ls
+  722  git add --all
+  723  git commit -m "remove tmux dot files"
+  724  git push -u origin master
+  725  ls
+  726  cd vxml-server/
+  727  ls
+  728  cd templates/
+  729  ls
+  730  rm final.xml 
+  731  vim lab2copy.xml 
+  732  rm lab2copy.xml 
+  733  ls
+  734  cd ifn
+  735  cd final/
+  736  ls
+  737  cd copy8/
+  738  ls
+  739  cd ..
+  740  ls
+  741  vim lab1.xml 
+  742  rm lab1.xml 
+  743  cp copy8/lab1.xml final.xml
+  744  ls
+  745  rm -rf copy*
+  746  ls
+  747  cd ..
+  748  ls
+  749  rm ]
+  750  ls
+  751  cd ..
+  752  ls
+  753  cd grammars/
+  754  ls
+  755  cd ..
+  756  ls
+  757  ls 
+  758  cd ..
+  759  ls
+  760  cd grammars/
+  761  ls
+  762  vim lab2.xml 
+  763  ls
+  764  vim lab1.xml 
+  765  vim GetInfo.xml 
+  766  vim bookflight.xml 
+  767  cd lt2216-vt19/
+  768  ls
+  769  cd vxml-server/
+  770  ls
+  771  cd templates/
+  772  ls
+  773  vim lab2_vg.txt 
+  774  vim lab2.xml 
+  775  tmux
+  776  ls
+  777  vim bookflight.xml 
+  778  vim lab1.xml 
+  779  vim lab2.xml 
+  780  vim lab1.xml 
+  781  vim lab2.xml 
+  782  vim lab2.xml 
+  783  vim lab4.xml 
+  784  ls
+  785  vim lab4.xml 
+  786  mkdir lab4copy
+  787  cp lab4.xml lab4copy/
+  788  vim lab4.xml 
+  789  ls
+  790  vim lab1PartC.txt 
+  791  vim lab4vg.txt
+  792  vim lab4.xml 
+  793  ls
+  794  vim lab2.xml 
+  795  rm lab2.xml 
+  796  vim lab2.xml
+  797  vim lab4vg.txt 
+  798  ls
+  799  git add --all
+  800  cd ..
+  801  ls
+  802  cd ..
+  803  ls
+  804  git add --all
+  805  git commit "finalized lab 4"
+  806  git commit -m "finalized lab 4"
+  807  git push -u origin master
+  808  ls
+  809  cd .
+  810  ls
+  811  cd ..
+  812  ls
+  813  cd grammars/
+  814  ls
+  815  vim lab4.xml 
+  816  cd ..
+  817  ls
+  818  cat flascommand.txt 
+  819  flask run --port 8000
+  820  flask run --port 8001
+  821  ls
+  822  flask run --port 8001
+  823  flask run --port 8002
+  824  flask run --port 8001
+  825  flask run --port 8000
+  826  tmux attach
+  827  ls
+  828  cd 
+  829  ls
+  830  ls -a
+  831  vim .bashrc 
+  832  vi .bashrc 
+  833  vi .vimrc
+  834  ls
+  835  vi README.md 
+  836  ils
+  837  vi README.md 
+  838  ls
+  839  vim gendoc.py 
+  840  vi gendoc.py 
+  841  du -sh *
+  842  ls
+  843  vi gendoc.py 
+  844  vim gout1.csv 
+  845  ls
+  846  cd ..
+  847  ls
+  848  cd assignment2/
+  849  ls
+  850  vim myscript.sh 
+  851  vi myscript.sh 
+  852  ./myscript.sh 
+  853  ls
+  854  ./ms2.sh 
+  855  vim ms2.sh 
+  856  vi ms2.sh 
+  857  ./ms2.sh 
+  858  ls
+  859  vim myscript.sh 
+  860  vi myscript.sh 
+  861  ./myscript.sh 
+  862  ls
+  863  vim ms2.sh 
+  864  vi ms2.sh 
+  865  ./ms2.sh 
+  866  ls
+  867  vim ms2.sh 
+  868  vi ms2.sh 
+  869  ./ms2.sh 
+  870  ./ms2.sh > cossim.txt
+  871  vim cossim.txt 
+  872  vi cossim.txt 
+  873  ls
+  874  mkdir copy
+  875  cp ms2.sh myscript.sh gendoc.py simdoc.py copy/
+  876  cd copy/
+  877  ls
+  878  vim gendoc.py 
+  879  vi gendoc.py 
+  880  ./myscript.sh 
+  881  ls
+  882  ./ms2.sh > cossim.txt
+  883  vim cossim.txt 
+  884  vi cossim.txt 
+  885  cat cossim.txt 
+  886  cat ../cossim.txt 
+  887  ls
+  888  vi myscript.sh 
+  889  ls
+  890  cd ..
+  891  ls
+  892  vim gendoc.py 
+  893  vi gendoc.py 
+  894  ls
+  895  cd 
+  896  ls
+  897  cd stats/
+  898  ls
+  899  cd lt2212-v19-a2/
+  900  ls
+  901  vim gendoc.py 
+  902  vi gendoc.py 
+  903  ls
+  904  s
+  905  ls
+  906  cd stats/
+  907  ls
+  908  cd god/
+  909  ls
+  910  cd ..
+  911  ls
+  912  cd lt2212-v19-a2/
+  913  ls
+  914  cd ..
+  915  ls
+  916  cd lt2212-v19-a3/
+  917  ls
+  918  cd ..
+  919  ls
+  920  cd ..
+  921  ls
+  922  cd assignment2/
+  923  ls
+  924  ls *.txt
+  925  vim cossim.txt 
+  926  vi cossim.txt 
+  927  cp * ../stats/lt2212-v19-a2/
+  928  cp -r * ../stats/lt2212-v19-a2/
+  929  cd ../stats/lt2212-v19-a2/
+  930  ls
+  931  vim gendoc.py 
+  932  vi gendoc.py 
+  933  ls
+  934  cd ..
+  935  ls
+  936  cd lt2212-v19-a
+  937  ls
+  938  cd lt2212-v19-a2/
+  939  ls
+  940  git add --all
+  941  ls
+  942  cd copy/
+  943  ls
+  944  cd ..
+  945  ls
+  946  rm -rf copy/
+  947  ls -a
+  948  git add --all
+  949  git commit -m 
+  950  git commit -m "add a bunch of stuff"
+  951  ls
+  952  vim myscript.sh 
+  953  vi myscript.sh 
+  954  vim ms2.sh 
+  955  vi ms2.sh 
+  956  git push -u origin master
+  957  du -sh *
+  958  ls
+  959  rm dunno*
+  960  ls
+  961  vim README.md 
+  962  vi README.md
+  963  tmux
+  964  tmux attach
+  965  ls
+  966  cd stats/lt2212-v19-a2/
+  967  ls
+  968  vim README.md 
+  969  vi README.md 
+  970  git add --all
+  971  git commit -m "last minute updates"
+  972  git push -u origin master
+  973  ls
+  974  cd ~
+  975  ls
+  976  cd stats/lt2212-v19-a22
+  977  cd stats/lt2212-v19-a2
+  978  ls
+  979  vim README.md 
+  980  vi README.md 
+  981  ls
+  982  cat cossim.txt 
+  983  vi README.md 
+  984  git add --all
+  985  git commit -m "update README"
+  986  git push -u origin master
+  987  pwd
+  988  ls
+  989  cd ~
+  990  ls
+  991  cd stats/
+  992  ls
+  993  cd lt2212-v19-a2/
+  994  ls
+  995  vi cossim.txt 
+  996  vi simdoc.py 
+  997  vim myscript.sh 
+  998  vi myscript.sh 
+  999  vim gendoc.py 
+ 1000  vi gendoc.py 
+ 1001  ls
+ 1002  cd ..
+ 1003  ls
+ 1004  cd shitThatworksMotherfucker/
+ 1005  ls
+ 1006  vim myscript.sh 
+ 1007  vi myscript.sh 
+ 1008  ls
+ 1009  cd ..
+ 1010  ls
+ 1011  cd extraShit/
+ 1012  ls
+ 1013  cd ..
+ 1014  ls
+ 1015  rm -rf extraShit/
+ 1016  ls
+ 1017  2gram/ copy
+ 1018  mv 2gram/ copy* stats/
+ 1019  ls
+ 1020  cd stats/
+ 1021  ls
+ 1022  cd copy
+ 1023  ls
+ 1024  mv read.py test.py train.py ../lt2212-v19-a3/
+ 1025  cd ../lt2212-v19-a3/
+ 1026  ls
+ 1027  git add --all
+ 1028  git commit -m "add main files"
+ 1029  git push -u origin master
+ 1030  ls
+ 1031  cd ..
+ 1032  ls
+ 1033  rm -rf lt2212-v19-a3/
+ 1034  ls
+ 1035  git clone https://github.com/wmacmil/lt2212-v19-a3
+ 1036  cp synthesize/ synthesize/2
+ 1037  cp synthesize/ synthesize2/
+ 1038  mkdir synthesize2
+ 1039  cp synthesize/* synthesize2
+ 1040  cd synthesize
+ 1041  ls
+ 1042  cat outputcopy.txt outputcopy2.txt output2gram.txt > allOuts.txt
+ 1043  vim allOuts.txt 
+ 1044  vi allOuts.txt 
+ 1045  history > h.txt

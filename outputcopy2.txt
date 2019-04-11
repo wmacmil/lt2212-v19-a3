@@ -1,0 +1,52 @@
+Loading data from file brown_rga.txt.
+Starting from line 0.
+Ending at line 400.
+Constructing 4-gram model.
+Writing table to g0.csv.
+Loading data from file g0.csv.
+Training 3-gram model.
+Writing table to m0.
+Loading data from file brown_rga.txt.
+Starting from line 0.
+Ending at line 400.
+Constructing 4-gram model.
+Writing table to g1.csv.
+Loading data from file g1.csv.
+Training 3-gram model.
+Writing table to m1.
+Loading data from file brown_rga.txt.
+Starting from line 0.
+Ending at line 800.
+Constructing 4-gram model.
+Writing table to g00.csv.
+Loading data from file g00.csv.
+Training 3-gram model.
+Writing table to m00.
+Loading data from file brown_rga.txt.
+Starting from line 0.
+Ending at line 800.
+Constructing 4-gram model.
+Writing table to g11.csv.
+Loading data from file g11.csv.
+Training 3-gram model.
+Writing table to m11.
+Loading data from file t0.csv.
+Loading model from file m0.
+Testing 3-gram model.
+Perplexity: 75.31935736425139
+Accuracy: 0.11838565022421525
+Loading data from file t1.csv.
+Loading model from file m1.
+Testing 3-gram model.
+Perplexity: 7.670867580834537
+Accuracy: 0.29192825112107623
+Loading data from file t00.csv.
+Loading model from file m00.
+Testing 3-gram model.
+Perplexity: 70.95527631451027
+Accuracy: 0.13013013013013014
+Loading data from file t11.csv.
+Loading model from file m11.
+Testing 3-gram model.
+Perplexity: 6.4231032697665835
+Accuracy: 0.3123123123123123
